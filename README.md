@@ -7,3 +7,4 @@
 - [AConstant](https://github.com/bobinii/java-practice/blob/main/src/com/bobini/java/practice/AConstant.java)
 - [YourName](https://github.com/bobinii/java-practice/blob/main/src/com/bobini/java/practice/YourName.java)
 - [MortgageCalculatorOne](https://github.com/bobinii/java-practice/blob/main/src/com/bobini/java/practice/MortgageCalculatorOne.java)
+- [Ages](https://github.com/bobinii/java-practice/blob/main/src/com/bobini/java/practice/Ages.java)
