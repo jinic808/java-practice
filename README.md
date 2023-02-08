@@ -8,3 +8,4 @@
 - [YourName](https://github.com/bobinii/java-practice/blob/main/src/com/bobini/java/practice/YourName.java)
 - [MortgageCalculatorOne](https://github.com/bobinii/java-practice/blob/main/src/com/bobini/java/practice/MortgageCalculatorOne.java)
 - [Ages](https://github.com/bobinii/java-practice/blob/main/src/com/bobini/java/practice/Ages.java)
+- [Seasons](https://github.com/bobinii/java-practice/blob/main/src/com/bobini/java/practice/Seasons.java)
