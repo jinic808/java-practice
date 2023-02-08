@@ -2,7 +2,7 @@ package com.bobini.java.practice;
 
 public class Seasons {
     public static void main(String[] args) {
-        int currentMonth = 2;
+        int currentMonth = 12;
         switch (currentMonth) {
             case 2:
             case 3:
@@ -23,6 +23,7 @@ public class Seasons {
             case 12:
             case 1:
                 System.out.println("it's winter");
+                break;
             default:
                 System.out.println("out of range. please enter a whole number between 1 - 12");
         }
