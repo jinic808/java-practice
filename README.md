@@ -9,3 +9,4 @@
 - [MortgageCalculatorOne](https://github.com/bobinii/java-practice/blob/main/src/com/bobini/java/practice/MortgageCalculatorOne.java)
 - [Ages](https://github.com/bobinii/java-practice/blob/main/src/com/bobini/java/practice/Ages.java)
 - [Seasons](https://github.com/bobinii/java-practice/blob/main/src/com/bobini/java/practice/Seasons.java)
+- [FizzBuzz](https://github.com/bobinii/java-practice/blob/main/src/com/bobini/java/practice/FizzBuzz.java)
