@@ -1,4 +1,4 @@
-package com.bobini.java.practice;
+package com.jinic.java.practice;
 
 import java.text.NumberFormat;
 import java.util.Scanner;

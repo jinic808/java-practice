@@ -1,4 +1,4 @@
-package com.bobini.java.practice;
+package com.jinic.java.practice;
 
 public class AConstant {
     public static void main(String[] args) {
