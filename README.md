@@ -12,3 +12,4 @@
 - [FizzBuzz](https://github.com/bobinii/java-practice/blob/main/src/com/bobini/java/practice/FizzBuzz.java)
 - [MortgageCalculatorTwo](https://github.com/bobinii/java-practice/blob/main/src/com/bobini/java/practice/MortgageCalculatorTwo.java)
 - [MortgageCalculator](https://github.com/jinic808/java-practice/blob/main/src/com/jinic/java/practice/MortgageCalculator.java)
+- [PaymentSchedule](https://github.com/jinic808/java-practice/blob/main/src/com/jinic/java/practice/PaymentSchedule.java)
