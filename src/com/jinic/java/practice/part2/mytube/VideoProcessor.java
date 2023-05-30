@@ -1,15 +1,15 @@
 package com.jinic.java.practice.part2.mytube;
 
 public class VideoProcessor {
+    private Encoder encoder;
+    private Database database;
+    private ContactService emailService;
+
     public void process(Video video) {
-        var encoder = new VideoEncoder();
         encoder.encode(video);
 
-        var database = new VideoDatabase();
         database.store(video);
 
-        var emailService = new EmailService();
         emailService.sendEmail(video.getUser());
     }
 }
-
