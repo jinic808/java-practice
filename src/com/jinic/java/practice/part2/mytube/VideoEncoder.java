@@ -1,4 +1,4 @@
-package com.mytube;
+package com.jinic.java.practice.part2.mytube;
 
 public class VideoEncoder {
     public void encode(Video video) {

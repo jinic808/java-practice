@@ -1,4 +1,4 @@
-package com.mytube;
+package com.jinic.java.practice.part2.mytube;
 
 public class VideoProcessor {
     public void process(Video video) {
